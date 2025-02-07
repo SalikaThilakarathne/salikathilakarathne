@@ -1,5 +1,5 @@
 Hello! 
-My name is Salika Thilakarathne. I recently started using GitHub to host my repos related to coastal engineering codes.
+My name is Salika Thilakarathne. I use GitHub to host my repos related to coastal engineering research.
 
 You can visit my web page here: https://salikathilakarathne.github.io/
 
